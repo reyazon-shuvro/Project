@@ -1,0 +1,17 @@
+#title{
+    background-color: #450315;
+    padding:50px;
+    text-align: center;
+    color:#ffff;
+    
+  }
+  
+  #img-caption{
+    max-width:100%;
+    height:auto;
+    display:block;
+  }
+  
+  #image{
+    width:100%;
+  }
